@@ -4,7 +4,7 @@
 [![LICENSE](https://img.shields.io/npm/l/express.svg)](LICENSE)
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://npm-stat.com/charts.html?package=react-rrule-generator)
 
-### This project is no longer maintained by me. Thank you for all your past contributions. Let the forks rock it for you.
+### This is a local extended version of react rrule generator the original version is not being maintained anymore.
 
 
 ![Screenshot](https://i.imgur.com/FU3aGlz.png)
